@@ -14,13 +14,13 @@ A simple Python program that generates and prints the Fibonacci sequence for 10 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/HARSH1-rgb/python-basics-25bcon1092-fibonacci.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd <repository-directory>
+cd https://github.com/HARSH1-rgb/python-basics-25bcon1092-fibonacci.git
 ```
 
 ## Requirements
